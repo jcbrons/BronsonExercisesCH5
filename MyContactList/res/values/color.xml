@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navbar_background">#1a1a48</color>
+    <color name="toolbar_background">#bebebe</color>
+    <color name="dataEntry_background">#a8a8e0</color>
+    <color name="pink_background">#Ecc8ec</color>
+    <color name="yellow_background">#f4f776</color>
+    
+</resources>
